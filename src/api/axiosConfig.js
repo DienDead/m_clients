@@ -2,7 +2,7 @@ import axios from 'axios';
 
 export default axios.create({
 
-    baseURL:'http://localhost:8080',
+    baseURL:'https://backend-client-3yq6.onrender.com/',
     headers:{"ngrok-skip-browser-warning": "true"}
 
 }); 
