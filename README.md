@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+The Backend client for this project has been deployed on Render and belongs to another repo: [MovieClient-backend]()
+
 ## Available Scripts
 
 In the project directory, you can run:
